@@ -59,8 +59,9 @@ h2 {
 
 /* middle container */
 .middle-container .profile img {
+  width: 15rem;
   margin: 50px;
-  border-radius: 130px;
+  border-radius: 178px;
 }
 .middle-container .profile h2 {
   margin-bottom: 40px;
